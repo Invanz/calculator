@@ -7,7 +7,7 @@ import Calculator from "./components/Calculator";
 function App() {
 
   return (<>
-  <h1 className="title">This is just a calculator.</h1>
+  <h1 className="title">Just a Calculator.</h1>
   < Calculator />
   </>
   )
